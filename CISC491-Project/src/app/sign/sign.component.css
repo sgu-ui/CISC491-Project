@@ -1,0 +1,6 @@
+.signup{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: rgb(88, 88, 88);
+}
